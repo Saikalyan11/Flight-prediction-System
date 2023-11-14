@@ -6,6 +6,10 @@
 
 **_`learn and execute.`_**
 
+
+**_OUTPUT_**
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Saikalyan11/Flight-prediction-System/blob/master/Final%20accuracy.png" />
+
 ## **Flight Delay Prediction**
 
 - The **_Flight Delay Prediction_** API finds the probability that a specific flight will be delayed.
@@ -14,12 +18,12 @@
 
 ## **Getting Started**
 
-It’s all about **Delay prediction** so nothing much to have in your 🖥️**System**, just open your browser and type **_Google colab_** and start the code given above
-And **code** will come in handy. Once you open **google colab** will be easy to access
+It’s all about **Delay prediction** so there's nothing much to have in your 🖥️**System**, just open your browser and type **_Google colab_** and start the code given above
+And **code** will come in handy. Once you open **Google Colab** will be easy to access
 
 ## **Pre-requisites**
 
-- You can use **Vs Code IDE** if your comfortable in your 🖥️**System**.
+- You can use **Vs Code IDE** if you are comfortable in your 🖥️**System**.
 - This **IDE,** this **IDE** gives some shortcuts while writing code.
 - I prefer to use **VS Code** because it is used for all programming languages. But most of them use different **_IDE_** for different languages.
 
