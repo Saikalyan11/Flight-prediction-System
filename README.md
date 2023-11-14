@@ -8,7 +8,7 @@
 
 
 **_OUTPUT_**
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Saikalyan11/Flight-prediction-System/blob/master/Final%20accuracy.png" />
+<img align="left" alt="output" width="30px" style="padding-right:10px;" src="https://drive.google.com/file/d/1p6h2vnqSzZQXaKxlMhbh8yAFiyM8rvfL/view?usp=drive_link" />
 
 ## **Flight Delay Prediction**
 
