@@ -8,7 +8,7 @@
 
 
 **_OUTPUT_**
-<img align="left" alt="output" width="30px" style="padding-right:10px;" src="https://drive.google.com/file/d/1p6h2vnqSzZQXaKxlMhbh8yAFiyM8rvfL/view?usp=drive_link" />
+<img src="https://your-image-url.type" width="100" height="100">
 
 ## **Flight Delay Prediction**
 
