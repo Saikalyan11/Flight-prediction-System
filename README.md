@@ -8,7 +8,7 @@
 
 
 **_OUTPUT_**
-<img src="Final accuracy.png" width="100" height="100">
+<img src="https://github.com/Saikalyan11/Flight-prediction-System/blob/master/Final%20accuracy.png" width="170" height="120">
 
 ## **Flight Delay Prediction**
 
