@@ -8,7 +8,7 @@
 
 
 **_OUTPUT_**
-<img src="https://your-image-url.type" width="100" height="100">
+<img src="Final accuracy.png" width="100" height="100">
 
 ## **Flight Delay Prediction**
 
