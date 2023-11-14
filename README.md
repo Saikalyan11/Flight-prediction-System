@@ -7,9 +7,6 @@
 **_`learn and execute.`_**
 
 
-**_OUTPUT_**
-<img src="https://github.com/Saikalyan11/Flight-prediction-System/blob/master/Final%20accuracy.png" width="170" height="120">
-
 ## **Flight Delay Prediction**
 
 - The **_Flight Delay Prediction_** API finds the probability that a specific flight will be delayed.
